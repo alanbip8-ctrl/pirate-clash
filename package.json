@@ -1,0 +1,16 @@
+{
+  "name": "pirate-clash-online",
+  "version": "2.2.0",
+  "private": true,
+  "description": "PIRATE CLASH - jeu de combat 2D One Piece avec matchmaking WebSocket temps réel",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "ws": "8.23.0"
+  }
+}
